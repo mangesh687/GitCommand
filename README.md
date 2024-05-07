@@ -18,4 +18,11 @@ git commit -m "Your descriptive commit message here"
 git push
 
 
+// when only provide gitlink like https://github.com/prabhatrsharma/LGMVIP-TicTacToeGame.git to downlode on local machine 
+go to any folder to save code  and open terminal 
+git clone https://github.com/prabhatrsharma/LGMVIP-TicTacToeGame.git
+
+
+
+
  
