@@ -23,6 +23,13 @@ go to any folder to save code  and open terminal
 git clone https://github.com/prabhatrsharma/LGMVIP-TicTacToeGame.git
 
 
+error: remote origin already exists
+How to slove this issue 
+ChatGPT
+It seems like you're trying to add a remote repository that already exists. You can check your existing remotes with the command git remote -v. If you want to change the URL of the existing remote, you can use git remote set-url origin <new_url>.
+
+git pull commend also use 
+
 
 
  
